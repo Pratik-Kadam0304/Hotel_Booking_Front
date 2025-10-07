@@ -1,5 +1,4 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-
 //  import { jsxDEV } from "react/jsx-dev-runtime";
 // Components
 import Header from "./components/Header";
@@ -48,14 +47,4 @@ function App() {
 }
 
 export default App;
-// function App() {
-//   return (
-//     <div className="flex items-center justify-center min-h-screen bg-gray-900">
-//       <h1 className="text-5xl font-bold text-red-500">
-//         Hello Tailwind!
-//       </h1>
-//     </div>
-//   );
-// }
 
-// export default App;

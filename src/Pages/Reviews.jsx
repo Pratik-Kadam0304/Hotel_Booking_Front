@@ -1,7 +1,7 @@
 import TestimonialCard from "../components/TestimonialCard";
 
 const reviews = [
-  { id: 1, name: "Raj Bhosale", comment: "Amazing experience...!" },
+  { id: 1, name: "Sham Bhosale", comment: "Amazing experience...!" },
   { id: 2, name: "Dipak Gade", comment: "Highly recommended." },
   { id: 2, name: "Pratik Rane", comment: "Beautiful place to stay" },
   { id: 2, name: "Vithhal Barde", comment: "Awesome food taste." },

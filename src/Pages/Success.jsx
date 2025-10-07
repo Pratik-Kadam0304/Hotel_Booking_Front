@@ -10,8 +10,7 @@ function SuccessPage() {
         <p className="text-gray-700 mb-6">
           Your message has been sent successfully. We will get back to you soon.
         </p>
-        <Link
-          to="/"
+        <Link to="/"
           className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
         >
           Go to Home

@@ -30,11 +30,11 @@ function Contact() {
     } catch (error) {
       console.error("Error:", error);
 
-      // 💡 Simulated Success Popup even if backend is not running
+      // Success Popup even if backend is not running
       alert("(Demo) Message sent successfully!");
     }
 
-    // Reset form after submission
+  //  Reset form after submission
     setFormData({ name: "", email: "", message: "" });
   };
 

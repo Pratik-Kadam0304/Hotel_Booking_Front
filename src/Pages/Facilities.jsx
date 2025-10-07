@@ -1,4 +1,4 @@
-// src/pages/Facilities.jsx
+
 
 const facilities = [
   { id: 1, name: "Swimming Pool", img: "/images/pool.jpg" },
